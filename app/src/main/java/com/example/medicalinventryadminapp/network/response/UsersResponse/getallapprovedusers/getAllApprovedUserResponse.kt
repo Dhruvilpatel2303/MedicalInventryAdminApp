@@ -1,0 +1,3 @@
+package com.example.medicalinventryadminapp.network.response.UsersResponse.getallapprovedusers
+
+class getAllApprovedUserResponse : ArrayList<getAllApprovedUserResponseItem>()
